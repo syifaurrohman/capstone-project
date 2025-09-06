@@ -23,7 +23,11 @@ This project aims to:
 - Fake postings: requests for payment, promises of immediate acceptance, or suspicious contact emails.
 
 ## AI Support Explanation
-- **Google Colab Notebook**
-- **IBM Granite / LLM**
+**Google Colab Notebook**
+- Data preprocessing & cleaning.
+- EDA and visualization.
+- Running classification models.
+**IBM Granite / LLM**
+- Summarizing classification results in plain language
 
 
