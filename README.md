@@ -14,13 +14,13 @@ This project aims to:
 1. Data Distribution
 - The majority of vacancies are real, only a small portion are fake.
 2. Company Information
-Real → long and detailed company profile.
-Fake → minimal details, just the company name without explanation.
+- Real → long and detailed company profile.
+- Fake → minimal details, just the company name without explanation.
 3. Job Description
-Real → clear description (duties, skills, experience).
-Fake → generic, short, often exaggerated description.
+- Real → clear description (duties, skills, experience).
+- Fake → generic, short, often exaggerated description.
 4. Red Flags
-Fake postings: requests for payment, promises of immediate acceptance, or suspicious contact emails.
+- Fake postings: requests for payment, promises of immediate acceptance, or suspicious contact emails.
 
 ## AI Support Explanation
 - **Google Colab Notebook**
